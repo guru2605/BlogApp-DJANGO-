@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from models import NewPost
+from .models import NewPost
 from django.http import HttpResponse
 # Create your views here.
 
